@@ -3,7 +3,7 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import schoolLogo from './assets/kando.jpg'
 import './App.css'
-
+ 
 export const App = () => {
   const [count, setCount] = useState(0)
 
